@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRM Application Test Automation Test Suite" duration-ms="33271" started-at="2021-02-03T18:01:34Z" finished-at="2021-02-03T18:02:07Z">
+    <groups>
+    </groups>
+    <test name="Free CRM App Test Cases" duration-ms="33271" started-at="2021-02-03T18:01:34Z" finished-at="2021-02-03T18:02:07Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@258e2e41]" name="setUp" is-config="true" duration-ms="30739" started-at="2021-02-03T18:01:34Z" finished-at="2021-02-03T18:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@258e2e41]" name="loginPageTitleTest" duration-ms="60" started-at="2021-02-03T18:02:04Z" finished-at="2021-02-03T18:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@258e2e41]" name="login" duration-ms="1253" started-at="2021-02-03T18:02:05Z" finished-at="2021-02-03T18:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@258e2e41]" name="tearDown" is-config="true" duration-ms="1167" started-at="2021-02-03T18:02:06Z" finished-at="2021-02-03T18:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- Free CRM Application Test Automation Test Suite -->
+</testng-results>
