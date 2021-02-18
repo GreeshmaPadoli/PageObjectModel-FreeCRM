@@ -31,6 +31,7 @@ public class ContactsPage extends TestBase{
 	
 	public void selectCheckboxByContactName(String name) {
 		driver.findElement(By.xpath("//a[contains(text(),'"+name+"')]//parent::td//preceding-sibling::td//div")).click();
+		//selected contact by checkbox name
 	}
 	
 	
